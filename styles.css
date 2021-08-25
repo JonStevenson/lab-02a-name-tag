@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+.sheet {  
+    border-radius: 10px;
+    width: 400px;
+    height: 250px;
+    background-color: gray;
+    padding: 10px;
+    
+}
+
+.sticker {
+    background-color: rgb(255, 0, 0);
+    border: 30px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.tag{
+    color: white;
+    margin: 10px 10px 0px 0px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 20px; 
+}
+
+h1, h2 {
+    line-height: 0.2;
+}
+
+.name {
+    background: white;
+    background: 300;
+    color: black;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 70px;
+    size: 100px 100px 100px 100px;
+    padding-bottom: 55px;
+    padding-top: 50px;
+    line-height: 15px;
+}
